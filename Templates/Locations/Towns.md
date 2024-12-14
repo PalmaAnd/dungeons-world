@@ -1,3 +1,8 @@
+---
+population: "10"
+tags:
+  - town
+---
 1. [[#History|History]]
     1. [[#History#Governance|Governance]]
     2. [[#History#Economy|Economy]]
